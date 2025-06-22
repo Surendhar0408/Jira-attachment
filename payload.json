@@ -1,0 +1,11 @@
+{
+   
+    "requestFieldValues": {
+        "description": "Test Description for File attachment",
+        "summary": "Test Ticket"
+    },
+    
+    "requestTypeId": "326",
+    "serviceDeskId": "7",
+	"raiseOnBehalfOf": "6221cd7cc88f1000682f8b80"
+}
